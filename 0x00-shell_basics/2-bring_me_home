@@ -1,0 +1,4 @@
+#!/bin/bash
+crib=$HOME
+echo "crib"
+ls "crib";
